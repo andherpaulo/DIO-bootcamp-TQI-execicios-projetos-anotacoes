@@ -11,10 +11,12 @@ Nesse projeto foram utilizadas as funcionalidades aprendidas no decorrer do mód
 
 - Background dinâmico
 
-
+![background-dinamico](/home/andher/workspace/DIO-bootcamp-TQI-execicios/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/background-dinamico.gif)
 
 - Menu hambuguer com efeito bolha
 
-
+![menu-hamburguer-bolha](/home/andher/workspace/DIO-bootcamp-TQI-execicios/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/menu-hamburguer-bolha.gif)
 
 - Efeito do hover
+
+![efeito-hover](/home/andher/workspace/DIO-bootcamp-TQI-execicios/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/efeito-hover.gif)
