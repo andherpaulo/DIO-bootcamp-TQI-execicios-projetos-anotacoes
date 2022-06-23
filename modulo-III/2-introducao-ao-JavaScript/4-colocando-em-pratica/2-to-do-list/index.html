@@ -9,13 +9,12 @@
 </head>
 <body>
     <h1>To-do list</h1>
-    <div class="inserir">
-        <input type="inserirTarefa" placeholder=" Digite aqui sua tarefa" class="caixaTexto">
-        <button class="adicionar">Adicionar</button>
-    </div>
-    <div class="lista">
-        <input type="checkbox" id="toggle" class="item">
-        lavar a louça
+    <div id="inserir">
+        <form id="formulario-tarefa">
+            <input type="text" placeholder=" Digite aqui sua tarefa" id="caixaTexto" name="inserirTarefa">
+            <button type="submit">Adicionar</button>
+        </form>
+        <div id="lista"></div>
     </div>
     <script src="assets/scripts.js"></script>
 </body>
