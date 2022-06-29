@@ -12,12 +12,12 @@ Nesse projeto foram utilizadas as funcionalidades aprendidas no decorrer do mód
 
 - Efeito 3D em CSS
 
-![background-dinamico](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios/blob/master/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/background-dinamico.gif)
+![efeito-3D](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios-projetos-anotacoes/blob/master/modulo-III/11-desafio-de-pratica/arquivos-readme/efeito-3D.gif?raw=true)
 
 - Manipulação de elementos da D.O.M. e funcionalidade multiplayer
 
-![menu-hamburguer-bolha](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios/blob/master/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/menu-hamburguer-bolha.gif)
+![manipulando-DOM](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios-projetos-anotacoes/blob/master/modulo-III/11-desafio-de-pratica/arquivos-readme/manipulando-DOM.gif?raw=true)
 
 - Mensagem do jogador vencedor e botão para reiniciar a partida
 
-![menu-hamburguer-bolha](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios/blob/master/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/menu-hamburguer-bolha.gif)
+![mesagem-restart](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios-projetos-anotacoes/blob/master/modulo-III/11-desafio-de-pratica/arquivos-readme/mesagem-restart.gif?raw=true)
