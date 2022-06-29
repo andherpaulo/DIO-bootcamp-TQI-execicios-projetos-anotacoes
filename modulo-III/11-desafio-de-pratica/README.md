@@ -1,13 +1,23 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio de Projeto - JavaScript
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+### Descrição
 
-### Os requisitos são:
+Desafio de projeto do terceito módulo do Bootcamp da DIO em parceria com a TQI, constituído de um jogo da memória.
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+Nesse projeto foram utilizadas as funcionalidades aprendidas no decorrer do módulo, referentes a HTML, CSS e, principalmente, JavaScript. Destaque aos efeitos 3D no CSS, sintaxe, funções e manipulação da D.O.M. com JavaScript.
 
+[Visualização do Projeto (Codepen)](https://codepen.io/andherpaulo/full/JjLjJMz)
 
-## 🚀 Let's code! 🚀
+### Recursos utilizados nesse projeto
+
+- Efeito 3D em CSS
+
+![background-dinamico](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios/blob/master/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/background-dinamico.gif)
+
+- Manipulação de elementos da D.O.M. e funcionalidade multiplayer
+
+![menu-hamburguer-bolha](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios/blob/master/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/menu-hamburguer-bolha.gif)
+
+- Mensagem do jogador vencedor e botão para reiniciar a partida
+
+![menu-hamburguer-bolha](https://github.com/andherpaulo/DIO-bootcamp-TQI-execicios/blob/master/modulo-II/2-CSS-transitions/5-projeto-portfolio/arquivos-readme/menu-hamburguer-bolha.gif)

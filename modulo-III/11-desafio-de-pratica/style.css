@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -8,12 +10,39 @@ body {
     height: 100vh;
     display: flex;
     background-color: rgb(69, 173, 0);
+    
+    max-width: 640px;
+    margin: auto;
+    flex-wrap: wrap;
+    color: white;
+    font-family: 'ultra';
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cabecalho {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.infos {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    max-width: 1400px;
+    margin-top: 2rem;
+    font-size: 20px;
 }
 
 .memory-game {
-    height: 853.317px; /* = 640 + 213.317 : quatro colunas */
+    height: 703.317px; /* = 640 + 213.317 - 150 : quatro colunas */
     width: 640px;
-    margin: auto;
+    margin: 2rem 0 0;
     display: flex;
     flex-wrap: wrap;
     perspective: 1000px;
@@ -57,7 +86,7 @@ body {
 }
 
 .js {   /* deixa a logo do JS quadrada */
-    padding: 50px 20px;
+    padding: 30px 20px;
 }
 
 .card-front {
@@ -68,4 +97,46 @@ body {
 
 .card.flip {
     transform: rotateY(180deg);
+}
+
+/* tela final do jogo */
+.mensagem {
+    position: fixed;
+    width: 450px;
+    height: 18vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 2;
+    visibility: hidden;
+    transition: 400ms ease-in-out 0s;
+
+    background: rgba(255, 255, 255, 0); /* usar assim para não contaminar os elementos filhos */
+    font-size: 20px;
+    flex-direction: column;
+    border-radius: 2rem;
+    color: black;
+}
+
+.encerrado {
+    visibility: visible;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.vencedor {
+    opacity: 1.0;
+}
+
+.repetir {
+    opacity: 1;
+    cursor: pointer;
+    
+    font-family: 'ultra';
+    border-radius: 40px;
+    height: 50px;
+    width: 200px;
+    border: none;
+    color: white;
+    background-color: black;
+    transition: all 0.5s linear;
 }
