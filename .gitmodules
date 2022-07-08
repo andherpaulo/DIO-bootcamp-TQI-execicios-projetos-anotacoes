@@ -1,6 +1,0 @@
-[submodule "modulo-I/1-introducao-ao-git-e-ao-github/dio-desafio-github-primeiro-repositorio"]
-	path = modulo-I/1-introducao-ao-git-e-ao-github/dio-desafio-github-primeiro-repositorio
-	url = https://github.com/andherpaulo/dio-desafio-github-primeiro-repositorio
-[submodule "modulo-I/1-introducao-ao-git-e-ao-github/livro-receitas"]
-	path = modulo-I/1-introducao-ao-git-e-ao-github/livro-receitas
-	url = https://github.com/andherpaulo/livro-receitas
